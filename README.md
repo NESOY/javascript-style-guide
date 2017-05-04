@@ -60,7 +60,7 @@
     + `null`
     + `undefined`
 
-    ```javascript
+    ``` javascript
     const foo = 1;
     let bar = foo;
 
@@ -75,7 +75,7 @@
     + `array`
     + `function`
 
-    ```javascript
+    ``` javascript
     const foo = [1, 2];
     const bar = foo;
 
